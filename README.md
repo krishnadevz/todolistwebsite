@@ -21,7 +21,7 @@ Simply this is a todolist website created in html/css/javascript
 <b>View after delopying on the google Firebase</b>
 <img src="https://github.com/krishnakakade1999/Todolistwebsite/blob/master/images/Annotation%202019-09-15%20211628.png" alt="two">
 
-## freedeployment on firebase notethat
+## freedeployment on firebase notethat you can get code in folder Todo/public/public in that main html files are overtheir
 
 ## website Link
 
