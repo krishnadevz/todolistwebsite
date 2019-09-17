@@ -22,11 +22,9 @@ Simply this is a todolist website created in html/css/javascript
 <br><img src="https://github.com/krishnakakade1999/Todolistwebsite/blob/master/images/Annotation%202019-09-15%20220016.png" alt="two">
 
 
-<b>View before Deploying on the firebase</b>
+<b>View before/after Deploying on the firebase</b>
 <img src="https://github.com/krishnakakade1999/Todolistwebsite/blob/master/images/Annotation%202019-09-15%20211604.png" alt="three">
 
-<b>View after delopying on the google Firebase</b>
-<img src="https://github.com/krishnakakade1999/Todolistwebsite/blob/master/images/Annotation%202019-09-15%20211628.png" alt="four">
 
 ## freedeployment on firebase notethat you can get code in folder Todo/public/public in that main html files are overtheir
 
