@@ -37,4 +37,4 @@ Simply this is a todolist website created in html/css/javascript
 
 ## Authors
 
-* **Krishna kakade**  - [krishnakakade1999](https://github.com/krishnakakade1999)
+* **Krishna kakade**  - [krishnadevz](https://github.com/krishnadevz)
